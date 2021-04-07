@@ -3,8 +3,9 @@
 - I’m currently working on Analytics Project at **ITMO University** 🔭 
 - I’m currently learning REACT Framework and Machine Learning 👩‍💻
 - I’m looking to collaborate on Pyton Django Projects 👯 
-## Languages and Technologies 
+## Languages and Technologies
 </br>
+
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-bage&logo=python)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-bage&logo=django)
 ![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-bage&logo=vue)
@@ -15,6 +16,7 @@
 ![Machine Learning](https://img.shields.io/badge/-MachineLearning-090909?style=for-the-bage&logo=MachineLearning)
 ![Text Analysis](https://img.shields.io/badge/-TextAnalysis-090909?style=for-the-bage&logo=TextAnalysis)
 ![Neural Networks](https://img.shields.io/badge/-NeuralNetworks-090909?style=for-the-bage&logo=NeuralNetworks)
+
 ### 📫 Mail me: lerartlera@gmail.com
 ### 📱 Telegram: @ValeriyaArt0
 #
