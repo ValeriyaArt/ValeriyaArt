@@ -3,11 +3,8 @@
 - I’m currently working on Analytics Project at **ITMO University** 🔭 
 - I’m currently learning REACT Framework and Machine Learning 👩‍💻
 - I’m looking to collaborate on Pyton Django Projects 👯 
-</br>
-
 ## Languages and Technologies 
 </br>
-
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-bage&logo=python)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-bage&logo=django)
 ![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-bage&logo=vue)
@@ -20,9 +17,6 @@
 ![Neural Networks](https://img.shields.io/badge/-NeuralNetworks-090909?style=for-the-bage&logo=NeuralNetworks)
 ### 📫 Mail me: lerartlera@gmail.com
 ### 📱 Telegram: @ValeriyaArt0
-</br>
-</br>
-
 #
 >Talent is cheaper than table salt. What separetes the talented individual from successful one is a lot of hard work. </br>
 >Stephen King
